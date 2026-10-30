@@ -1,0 +1,14 @@
+{
+  "name": "ITKamianets.Engine.Inventory",
+  "rootNamespace": "ITKamianets.Engine.Inventory",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

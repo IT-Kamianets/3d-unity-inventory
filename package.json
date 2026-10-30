@@ -1,0 +1,9 @@
+{
+  "name": "com.itkamianets.3d-unity-inventory",
+  "version": "0.1.0",
+  "displayName": "Unity Inventory",
+  "description": "Item containers for games: stackable items by id, slot and stack limits, adding, removing and moving items between containers, and conversion to and from the portable data of 3d-inventory-schema.",
+  "unity": "6000.6",
+  "keywords": ["inventory", "items", "container", "engine"],
+  "author": { "name": "IT Kamianets" }
+}
