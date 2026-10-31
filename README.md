@@ -16,7 +16,7 @@ No item definitions, recipes, prices or weights, no UI, no networking, no depend
 
 ### Status
 
-v0.1: `ItemContainer`, `ItemEntry`, `InventoryData`, `InventoryStatus`, with edit-mode tests. Used by Temnorid Craft; Temnorid Dungeons will use it for loot.
+v0.1: `ItemContainer`, `ItemEntry`, `InventoryData`, `InventoryStatus`, with edit-mode tests. Used by Temnorid Craft (the backpack and the stores), Dungeons (the stash), Legends (hero items) and Conquest.
 
 ### Roadmap
 
